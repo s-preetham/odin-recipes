@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(77, 224, 212);
+}
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+}
+li {
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+    border: solid;
+    margin-bottom: 3px;
+    width: auto;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
